@@ -50,18 +50,25 @@ O sistema tem como objetivo gerenciar todas as operações de uma academia, incl
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-*(Adicione a imagem aqui depois)*
-![Diagrama de Casos de Uso](docs/use-case-diagram.png)
+![alt text](docs/casodeuso.jpg)
 
 **Principais atores:** Aluno, Professor, Administrador
 
-### Diagrama de Sequência - Agendamento de Aula
-*(Adicione a imagem aqui depois)*
-![Diagrama de Sequência](docs/sequence-diagram.png)
+### Diagrama de Sequência - Cadastrar
+![alt text](docs/sequencia1.jpg)
 
-### Diagrama de Atividades - Processo de Check-in
-*(Adicione a imagem aqui depois)*
-![Diagrama de Atividades](docs/activity-diagram.png)
+### Diagrama de Sequência - Sequencia Logar
+![alt text](docs/sequencia2.jpg)
+
+### Diagrama de Sequência - Sequencia Logaot
+![alt text](docs/sequencia3.jpg)
+
+### Diagrama de Atividades - Logar
+![alt text](docs/atividade.jpg)
+### Diagrama de Atividades - Pagamento
+![alt text](docs/atividade2.jpg)
+### Diagrama de Atividades - Cadastrar Aluno
+![alt text](docs/atividade3.jpg)
 
 ---
 
