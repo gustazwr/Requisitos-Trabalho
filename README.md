@@ -74,24 +74,4 @@ O sistema tem como objetivo gerenciar todas as operações de uma academia, incl
 
 ## Arquitetura do Sistema
 
-### Padrão MVC (Model-View-Controller)
-
-**Model (Modelo):**
-- Entidades: Aluno, Plano, Aula, Pagamento
-- Lógica de negócio e acesso ao banco de dados
-
-**View (Visão):**
-- Interface web (React.js/Angular)
-- App mobile (React Native)
-- Dashboards administrativos
-
-**Controller (Controlador):**
-- Rotas e endpoints da API
-- Validação de dados
-- Comunicação entre Model e View
-
-**Tecnologias sugeridas:**
-- Backend: Node.js ou Spring Boot
-- Banco de Dados: PostgreSQL
-- Frontend: React.js
-- Mobile: React Native
+![arquitetura](docs/ArquiteturadoSIstema.png)
